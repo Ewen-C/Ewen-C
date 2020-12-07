@@ -3,5 +3,3 @@
 - 🔭 I’m currently working on : finding an apprenticeship as a web developer !
 - 🌱 I’m currently learning : JavaScript and its frameworks like Vue, React or Node.
 - 💬 Ask me about : web and software development, anytime
-
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=Ewen-C&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
