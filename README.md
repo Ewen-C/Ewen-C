@@ -1,5 +1,5 @@
 ## Hi, I'm Ewen Celibert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://ewen-c.epizy.com)
+[![Website](https://img.shields.io/badge/Web Developer-green?style=flat-square)](https://ewen-c.epizy.com)
 
 
 - 🔭 I’m currently working on : finding an apprenticeship as a web developer !
