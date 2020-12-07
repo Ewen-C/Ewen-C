@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on : finding an apprenticeship as a web developer !
 - 🌱 I’m currently learning : JavaScript and its frameworks like Vue, React or Node.
-- 💬 Ask me about : web and software development, anytime
+- :link: Link to my website : <a href="http://ewen-c.epizy.com">ewen-c.epizy.com</a>
